@@ -55,7 +55,8 @@ body {
     background-color: transparent; /* Set background color to transparent */
   }
   
-  .container {
+  
+  body {
     background-image: url('./components/images/iccon.jpg');
     background-size: cover;
     background-position: center;
